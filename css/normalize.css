@@ -1,4 +1,7 @@
-
+body {
+    background-image: url("images/isometric.jpg");
+    background-repeat: no-repeat;
+}
 .hero {
     width: 90%;
     border: 4px solid #323e4c;
