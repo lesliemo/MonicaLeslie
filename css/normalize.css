@@ -9,6 +9,7 @@
   box-sizing: border-box;
   margin: 3%;
   background: #ffffff url(...images/insight.jpg) 0 0 repeat;  
+  border-bottom: solid 1px #acc6a1;  
 }
 
 ul.nav {
