@@ -15,11 +15,14 @@
 }
 
 #hero_content {
-    width: 100%;
-  padding-top: 0px;
-  padding-bottom: 0px;
-  padding-left: 0px;
-  margin: 5%;
+    width: 90%;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  box-sizing: content-box;
+  margin: 3%;
+  overflow: hidden;
   font-family: courier;
 }
 
