@@ -29,8 +29,6 @@
 
 ul.nav {
     list-style-type: none;
-    margin: 3%;
-    padding: 20px;
     overflow: hidden;
     background-color: #151a1e;
 }
